@@ -1,6 +1,3 @@
 streamlit
 replicate
 reportlab
-io
-base64
-os
